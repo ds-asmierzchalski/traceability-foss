@@ -94,7 +94,7 @@ tractusx-connector:
       password: "<path:traceability-foss/data/int-a/edc/database#password>"
     username: "<path:traceability-foss/data/int-a/edc/database#user>"
     password: "<path:traceability-foss/data/int-a/edc/database#password>"
-    jdbcUrl: "jdbc:postgresql://tx-edc-provider-postgresql-int-a-hl:5432/edc"
+    jdbcUrl: "jdbc:postgresql://cac-testbed-edc-postgresql-hl:5432/edc"
 
   vault:
     hashicorp:
