@@ -74,7 +74,7 @@ tractusx-connector:
         className: "nginx"
         tls:
           enabled: true
-          secretName: tls-secret-edc-provider-a
+          secretName: tls-secret-cac-testbed-edc-dataplane
 
     resources:
       limits:
